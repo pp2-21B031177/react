@@ -1,0 +1,25 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "Sample Article 1",
+        "authors": ["Author1", "Author2"],
+        "keywords": ["React", "JavaScript"],
+        "body": "This is the content of the article 1."
+      },
+      {
+        "id": 2,
+        "title": "Sample Article 2",
+        "authors": ["Author3", "Author4"],
+        "keywords": ["Web Development", "Frontend"],
+        "body": "This is the content of the article 2."
+      },
+      {
+        "id": 3,
+        "title": "The Impact of Artificial Intelligence on Society",
+        "authors": ["John Smith", "Jane Doe"],
+        "keywords": ["Artificial Intelligence", "Society", "Technology"],
+        "body": "This article explores the profound impact of artificial intelligence on various aspects of society, including economy, ethics, and education."
+      }
+    ]
+  }
